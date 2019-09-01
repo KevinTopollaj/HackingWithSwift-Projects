@@ -17,4 +17,4 @@
 
 ## App Demo:
 
-![Storm Viewer](demo.gif)
+![Storm Viewer](demo.gif =325x650)
