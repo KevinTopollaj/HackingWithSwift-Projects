@@ -17,4 +17,4 @@
 
 ## App Demo:
 
-![Storm Viewer](demo.gif =325x650)
+<img src="demo.gif?raw=true" width="325px" height="650">
