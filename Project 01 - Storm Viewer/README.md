@@ -17,4 +17,4 @@
 
 ## App Demo:
 
-![Storm Viewer](StormViewer.gif)
+![Storm Viewer](demo.gif)
