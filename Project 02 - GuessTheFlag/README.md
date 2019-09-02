@@ -1,6 +1,6 @@
 # Guess The Flag
 
-#### Guess The Flag is a game project that contains three buttons where each button has a country flag, than a country name will be displayed in the title of the app than the user has to find which country it belong to in order to gain score. If the user guess it correctly it will win 1 point otherwise it will lose 1 point. After 5 guesses the user will be presented with an alert that will show its total score and the option to start a new game.
+#### Guess The Flag is a game project that contains three buttons where each button has a country flag, than a country name will be displayed in the title of the app, the user has to find which country it belong to in order to win score. If the user will guess it correctly it will win 1 point otherwise it will lose 1 point. After 5 guesses the user will be presented with an alert that will show its total score and the option to start a new game.
 
 ## Main Points:
 
