@@ -4,7 +4,7 @@
 
 ## Main Points:
 
-* UITableViewController (  reloadData( ), insertRows(at: , with: )  )
+* UITableViewController (  reloadData( ), insertRows(at: , with: ), deleteRows(at: , with: )  )
 * UIActivityViewController
 * Using Closures and breaking Strong-Reference-Cycles using 'weak'
 * Actions using @objc to expose a method to Objective-C
