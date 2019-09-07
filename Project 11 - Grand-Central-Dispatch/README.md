@@ -1,6 +1,6 @@
 # Grand-Central-Dispatch
 
-#### Grand-Central-Dispatch is a technique project where we will solve a problem in the Whitehouse Petitions project to get the data form the API in the background thread using "DispatchQueue.global(qos: ).async" so we don't lock our User Interface for the user, and than send the parsed data back to the main thread when we want to update the User Interface using "DispatchQueue.main.async".
+#### Grand-Central-Dispatch is a technique project where we will solve a problem in the Whitehouse Petitions project to get the data form the API in the background thread using "DispatchQueue.global(qos: ).async" so we don't lock our User Interface for the user, and than send the parsed data back to the main thread where we want to update the User Interface using "DispatchQueue.main.async".
 
 ## Main Points:
 
