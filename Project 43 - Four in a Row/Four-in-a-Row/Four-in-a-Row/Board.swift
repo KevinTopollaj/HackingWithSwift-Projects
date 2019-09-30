@@ -126,7 +126,6 @@ class Board: NSObject, GKGameModel {
   }
   
   /// Methods to our game models to enable an AI to make choices.
-  
   func copy(with zone: NSZone? = nil) -> Any {
     let copy = Board()
     copy.setGameModel(self)
