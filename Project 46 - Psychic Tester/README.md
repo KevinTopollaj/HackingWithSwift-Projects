@@ -22,4 +22,4 @@
 
 ## App Demo:
 
-<img src="demo.gif?raw=true" width="325px" height="650">
+<img src="demo.gif?raw=true" width="650" height="325">
